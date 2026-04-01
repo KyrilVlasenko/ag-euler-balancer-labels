@@ -1,12 +1,14 @@
 {
 	"alphagrowth": {
-		"name": "Alpha Growth",
+		"name": "AlphaGrowth",
 		"logo": "alphagrowth.svg",
 		"description": "DeFi risk curation and vault management.",
-		"url": "https://alphagrowth.fun",
-		"addresses": {},
+		"url": "https://alphagrowth.io",
+		"addresses": {
+			"0x5304ebB378186b081B99dbb8B6D17d9005eA0448": "AlphaGrowth Curator Wallet"
+		},
 		"social": {
-			"twitter": "",
+			"twitter": "alphagrowth1",
 			"youtube": "",
 			"discord": "",
 			"telegram": "",
