@@ -30,5 +30,15 @@
 			"0x68AAD2c78065E2D28d2B46f6A80c5a813461FFf4",
 			"0xeC0c00e9b0894553c9D63C1Dd930c27a303F953c"
 		]
+	},
+	"zro-cluster": {
+		"name": "LayerZero ZRO",
+		"description": "Borrow ZRO against USDC or ETH collateral, or use ZRO as collateral to borrow USDC/ETH on Base. Curated by Alpha Growth.",
+		"entity": ["alphagrowth", "layerzero", "euler"],
+		"url": "https://layerzero.network",
+		"vaults": [
+			"0xCB935d7916B20748e7f14C3B95931b8dcdA2472D",
+			"0xaA73062F331873581991eDdD6848e0e57575E14f"
+		]
 	}
 }
