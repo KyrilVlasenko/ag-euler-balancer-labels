@@ -69,6 +69,20 @@
 			"github": ""
 		}
 	},
+	"layerzero": {
+		"name": "LayerZero",
+		"logo": "layerzero.png",
+		"description": "Omnichain interoperability protocol. ZRO is the LayerZero governance and utility token.",
+		"url": "https://layerzero.network",
+		"addresses": {},
+		"social": {
+			"twitter": "LayerZero_Core",
+			"youtube": "",
+			"discord": "",
+			"telegram": "",
+			"github": "LayerZero-Labs"
+		}
+	},
 	"euler": {
 		"name": "Euler Finance",
 		"logo": "euler.svg",
