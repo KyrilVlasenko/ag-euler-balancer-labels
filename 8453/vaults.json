@@ -58,5 +58,15 @@
 		"name": "AERO Collateral",
 		"description": "AERO collateral vault. Use AERO as collateral to borrow USDC or ETH.",
 		"entity": "aerodrome"
+	},
+	"0x3Bd428B28C52f3534CC78075799CA798e4BcE5a8": {
+		"name": "VIRTUAL Lending",
+		"description": "Lend VIRTUAL to earn yield from USDC and ETH collateral borrowers.",
+		"entity": "virtual"
+	},
+	"0xced5E60B38B3cfE5cF945762c4f015fB4727bD64": {
+		"name": "VIRTUAL Collateral",
+		"description": "VIRTUAL collateral vault. Use VIRTUAL as collateral to borrow USDC or ETH.",
+		"entity": "virtual"
 	}
 }
