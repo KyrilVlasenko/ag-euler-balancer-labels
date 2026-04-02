@@ -110,5 +110,19 @@
 			"telegram": "",
 			"github": "aerodrome-finance"
 		}
+	},
+	"virtual": {
+		"name": "Virtuals Protocol",
+		"logo": "virtual.png",
+		"description": "AI agent tokenization protocol. VIRTUAL is the governance and utility token.",
+		"url": "https://virtuals.io",
+		"addresses": {},
+		"social": {
+			"twitter": "virtikitten",
+			"youtube": "",
+			"discord": "",
+			"telegram": "",
+			"github": ""
+		}
 	}
 }

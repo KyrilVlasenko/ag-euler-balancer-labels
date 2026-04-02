@@ -50,5 +50,15 @@
 			"0xAf5F576396730C212A8C6056A00eaA58123d78B6",
 			"0x2172Df80c6ba09F2a314318C4c1D385F67582a1c"
 		]
+	},
+	"virtual-cluster": {
+		"name": "Virtuals VIRTUAL",
+		"description": "Borrow VIRTUAL against USDC or ETH collateral, or use VIRTUAL as collateral to borrow USDC/ETH on Base. Curated by Alpha Growth.",
+		"entity": ["alphagrowth", "virtual", "euler"],
+		"url": "https://virtuals.io",
+		"vaults": [
+			"0x3Bd428B28C52f3534CC78075799CA798e4BcE5a8",
+			"0xced5E60B38B3cfE5cF945762c4f015fB4727bD64"
+		]
 	}
 }
