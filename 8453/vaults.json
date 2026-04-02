@@ -48,5 +48,15 @@
 		"name": "ZRO Collateral",
 		"description": "ZRO collateral vault. Use ZRO as collateral to borrow USDC or ETH.",
 		"entity": "layerzero"
+	},
+	"0xAf5F576396730C212A8C6056A00eaA58123d78B6": {
+		"name": "AERO Lending",
+		"description": "Lend AERO to earn yield from USDC and ETH collateral borrowers.",
+		"entity": "aerodrome"
+	},
+	"0x2172Df80c6ba09F2a314318C4c1D385F67582a1c": {
+		"name": "AERO Collateral",
+		"description": "AERO collateral vault. Use AERO as collateral to borrow USDC or ETH.",
+		"entity": "aerodrome"
 	}
 }
