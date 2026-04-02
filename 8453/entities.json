@@ -96,5 +96,19 @@
 			"telegram": "eulerfinance_official",
 			"github": "euler-xyz"
 		}
+	},
+	"aerodrome": {
+		"name": "Aerodrome Finance",
+		"logo": "aerodrome.png",
+		"description": "The central trading and liquidity marketplace on Base. AERO is the Aerodrome governance and utility token.",
+		"url": "https://aerodrome.finance",
+		"addresses": {},
+		"social": {
+			"twitter": "AerodromeFinance",
+			"youtube": "",
+			"discord": "",
+			"telegram": "",
+			"github": "aerodrome-finance"
+		}
 	}
 }
