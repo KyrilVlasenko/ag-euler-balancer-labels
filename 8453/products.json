@@ -9,6 +9,15 @@
 			"0x92f8b6bfC276E9A38545bE6517d3295593060D00"
 		]
 	},
+	"euler-usdc-1": {
+		"name": "Euler eUSDC-1",
+		"description": "Euler eUSDC-1 vault on Base.",
+		"entity": ["euler"],
+		"url": "https://euler.finance",
+		"vaults": [
+			"0x0A1a3b5f2041F33522C4efc754a7D096f880eE16"
+		]
+	},
 	"base-unified": {
 		"name": "Base Unified Market",
 		"description": "Borrow and lend USDC, ETH, VVV, ZRO, VIRTUAL, and AERO on Base. Curated by Alpha Growth.",
