@@ -19,10 +19,10 @@
 		]
 	},
 	"base-unified": {
-		"name": "Base Unified Market",
-		"description": "Borrow and lend USDC, ETH, VVV, ZRO, VIRTUAL, and AERO on Base. Curated by Alpha Growth.",
-		"entity": ["alphagrowth", "euler"],
-		"url": "https://alphagrowth.io",
+		"name": "AlphaGrowth Base",
+		"description": "A market tailored to borrowing against blue chip and emerging crypto assets. Governed by AlphaGrowth.",
+		"entity": ["alphagrowth"],
+		"url": "https://alphagrowth.io/",
 		"vaults": [
 			"0x21c8c8A56790A2b10370373fAcb94e925fD6a06E",
 			"0x68AAD2c78065E2D28d2B46f6A80c5a813461FFf4",
