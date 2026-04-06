@@ -15,20 +15,6 @@
 			"github": ""
 		}
 	},
-	"frax": {
-		"name": "Frax Finance",
-		"logo": "frax.svg",
-		"description": "Fractional-algorithmic stablecoin protocol. frxUSD is Frax's fully collateralized USD stablecoin.",
-		"url": "https://frax.finance",
-		"addresses": {},
-		"social": {
-			"twitter": "fraboratory",
-			"youtube": "",
-			"discord": "https://discord.gg/frax",
-			"telegram": "fraboratory",
-			"github": "FraxFinance"
-		}
-	},
 	"ichi": {
 		"name": "ICHI",
 		"logo": "ichi.svg",

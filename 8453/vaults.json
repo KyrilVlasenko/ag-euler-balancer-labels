@@ -1,47 +1,37 @@
 {
-	"0x42BA0a943EDcc846333642d62F500894b199A798": {
-		"name": "frxUSD Lending",
-		"description": "Lend frxUSD to earn yield from BRZ collateral borrowers.",
-		"entity": "frax"
-	},
-	"0x92f8b6bfC276E9A38545bE6517d3295593060D00": {
-		"name": "BRZ Token",
-		"description": "Collateral vault for direct BRZ (Brazilian Digital Real) token deposits. Priced via Chainlink BRZ/USD feed.",
-		"entity": "frax"
-	},
-	"0x21c8c8A56790A2b10370373fAcb94e925fD6a06E": {
-		"name": "AlphaGrowth USDC Base Vault",
-		"description": "A borrowing-enabled USDC vault managed by AlphaGrowth. Lend USDC or use as collateral to borrow other assets.",
-		"entity": "alphagrowth"
-	},
-	"0x68AAD2c78065E2D28d2B46f6A80c5a813461FFf4": {
-		"name": "AlphaGrowth ETH Base Vault",
-		"description": "A borrowing-enabled ETH vault managed by AlphaGrowth. Lend ETH or use as collateral to borrow other assets.",
-		"entity": "alphagrowth"
-	},
-	"0x4B6509B06f664eb8c8a4e9072655A4C6cafc1D9C": {
-		"name": "AlphaGrowth VVV Base Vault",
-		"description": "A borrowing-enabled VVV vault managed by AlphaGrowth. Lend VVV or use as collateral to borrow USDC and ETH.",
-		"entity": "alphagrowth"
-	},
-	"0xCB935d7916B20748e7f14C3B95931b8dcdA2472D": {
-		"name": "AlphaGrowth ZRO Base Vault",
-		"description": "A borrowing-enabled ZRO vault managed by AlphaGrowth. Lend ZRO or use as collateral to borrow USDC and ETH.",
-		"entity": "alphagrowth"
-	},
-	"0xAf5F576396730C212A8C6056A00eaA58123d78B6": {
-		"name": "AlphaGrowth AERO Base Vault",
-		"description": "A borrowing-enabled AERO vault managed by AlphaGrowth. Lend AERO or use as collateral to borrow USDC and ETH.",
-		"entity": "alphagrowth"
-	},
-	"0x3Bd428B28C52f3534CC78075799CA798e4BcE5a8": {
-		"name": "AlphaGrowth VIRTUAL Base Vault",
-		"description": "A borrowing-enabled VIRTUAL vault managed by AlphaGrowth. Lend VIRTUAL or use as collateral to borrow USDC and ETH.",
-		"entity": "alphagrowth"
-	},
-	"0x0A1a3b5f2041F33522C4efc754a7D096f880eE16": {
-		"name": "eUSDC-1",
-		"description": "Euler eUSDC-1 vault on Base.",
-		"entity": "euler"
-	}
+  "0x21c8c8A56790A2b10370373fAcb94e925fD6a06E": {
+    "name": "AlphaGrowth USDC Base Vault",
+    "description": "A borrowing-enabled USDC vault managed by AlphaGrowth. Lend USDC or use as collateral to borrow other assets.",
+    "entity": "alphagrowth"
+  },
+  "0x68AAD2c78065E2D28d2B46f6A80c5a813461FFf4": {
+    "name": "AlphaGrowth ETH Base Vault",
+    "description": "A borrowing-enabled ETH vault managed by AlphaGrowth. Lend ETH or use as collateral to borrow other assets.",
+    "entity": "alphagrowth"
+  },
+  "0x4B6509B06f664eb8c8a4e9072655A4C6cafc1D9C": {
+    "name": "AlphaGrowth VVV Base Vault",
+    "description": "A borrowing-enabled VVV vault managed by AlphaGrowth. Lend VVV or use as collateral to borrow USDC and ETH.",
+    "entity": "alphagrowth"
+  },
+  "0xCB935d7916B20748e7f14C3B95931b8dcdA2472D": {
+    "name": "AlphaGrowth ZRO Base Vault",
+    "description": "A borrowing-enabled ZRO vault managed by AlphaGrowth. Lend ZRO or use as collateral to borrow USDC and ETH.",
+    "entity": "alphagrowth"
+  },
+  "0xAf5F576396730C212A8C6056A00eaA58123d78B6": {
+    "name": "AlphaGrowth AERO Base Vault",
+    "description": "A borrowing-enabled AERO vault managed by AlphaGrowth. Lend AERO or use as collateral to borrow USDC and ETH.",
+    "entity": "alphagrowth"
+  },
+  "0x3Bd428B28C52f3534CC78075799CA798e4BcE5a8": {
+    "name": "AlphaGrowth VIRTUAL Base Vault",
+    "description": "A borrowing-enabled VIRTUAL vault managed by AlphaGrowth. Lend VIRTUAL or use as collateral to borrow USDC and ETH.",
+    "entity": "alphagrowth"
+  },
+  "0x0A1a3b5f2041F33522C4efc754a7D096f880eE16": {
+    "name": "eUSDC-1",
+    "description": "Euler eUSDC-1 vault on Base.",
+    "entity": "euler"
+  }
 }
