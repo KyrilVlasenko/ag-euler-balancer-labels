@@ -1,7 +1,7 @@
 {
 	"ausd-bpt-leverage": {
 		"name": "Stablecoin BPT Leverage",
-		"description": "Borrow AUSD against Balancer stablecoin BPT collateral on Monad. Curated by Alpha Growth.",
+		"description": "Borrow AUSD against Balancer stablecoin BPT collateral on Monad. Curated by AlphaGrowth.",
 		"entity": [
 			"alphagrowth",
 			"balancer",
@@ -16,7 +16,7 @@
 	},
 	"wmon-bpt-leverage": {
 		"name": "MON LST BPT Leverage",
-		"description": "Borrow WMON against Balancer LST BPT collateral on Monad. Curated by Alpha Growth.",
+		"description": "Borrow WMON against Balancer LST BPT collateral on Monad. Curated by AlphaGrowth.",
 		"entity": [
 			"alphagrowth",
 			"balancer",
