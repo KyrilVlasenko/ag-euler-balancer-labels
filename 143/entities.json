@@ -5,7 +5,7 @@
 		"description": "DeFi risk curation and vault management.",
 		"url": "https://alphagrowth.io",
 		"addresses": {
-			"0x4f894Bfc9481110278C356adE1473eBe2127Fd3C": "AlphaGrowth Multisig"
+			"0x501107fe590c8F9b81c00b81867fD19e0d9c0253": "AlphaGrowth Governor"
 		},
 		"social": {
 			"twitter": "alphagrowth1",
