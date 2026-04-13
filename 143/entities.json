@@ -1,46 +1,46 @@
 {
-	"alphagrowth": {
-		"name": "AlphaGrowth",
-		"logo": "alphagrowth.svg",
-		"description": "DeFi risk curation and vault management.",
-		"url": "https://alphagrowth.io",
-		"addresses": {
-			"0x501107fe590c8F9b81c00b81867fD19e0d9c0253": "AlphaGrowth Governor"
-		},
-		"social": {
-			"twitter": "alphagrowth1",
-			"youtube": "",
-			"discord": "",
-			"telegram": "",
-			"github": ""
-		}
-	},
-	"balancer": {
-		"name": "Balancer",
-		"logo": "balancer.png",
-		"description": "Programmable liquidity protocol powering efficient trading and yield.",
-		"url": "https://balancer.fi",
-		"addresses": {},
-		"social": {
-			"twitter": "Balancer",
-			"youtube": "",
-			"discord": "https://discord.balancer.fi/",
-			"telegram": "",
-			"github": "balancer"
-		}
-	},
-	"euler": {
-		"name": "Euler Finance",
-		"logo": "euler.svg",
-		"description": "Modular lending protocol.",
-		"url": "https://euler.finance",
-		"addresses": {},
-		"social": {
-			"twitter": "eulerfinance",
-			"youtube": "EulerFinance",
-			"discord": "https://discord.euler.finance/",
-			"telegram": "eulerfinance_official",
-			"github": "euler-xyz"
-		}
-	}
+  "alphagrowth": {
+    "name": "AlphaGrowth",
+    "logo": "alphagrowth.svg",
+    "description": "DeFi risk curation and vault management.",
+    "url": "https://alphagrowth.io",
+    "addresses": {
+      "0x4f894Bfc9481110278C356adE1473eBe2127Fd3C": "AlphaGrowth Multisig"
+    },
+    "social": {
+      "twitter": "alphagrowth1",
+      "youtube": "",
+      "discord": "",
+      "telegram": "",
+      "github": ""
+    }
+  },
+  "balancer": {
+    "name": "Balancer",
+    "logo": "balancer.png",
+    "description": "Programmable liquidity protocol powering efficient trading and yield.",
+    "url": "https://balancer.fi",
+    "addresses": {},
+    "social": {
+      "twitter": "Balancer",
+      "youtube": "",
+      "discord": "https://discord.balancer.fi/",
+      "telegram": "",
+      "github": "balancer"
+    }
+  },
+  "euler": {
+    "name": "Euler Finance",
+    "logo": "euler.svg",
+    "description": "Modular lending protocol.",
+    "url": "https://euler.finance",
+    "addresses": {},
+    "social": {
+      "twitter": "eulerfinance",
+      "youtube": "EulerFinance",
+      "discord": "https://discord.euler.finance/",
+      "telegram": "eulerfinance_official",
+      "github": "euler-xyz"
+    }
+  }
 }
