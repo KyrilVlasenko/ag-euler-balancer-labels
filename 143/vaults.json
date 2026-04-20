@@ -14,21 +14,6 @@
 		"description": "Collateral vault for Balancer stablecoin pool BPT.",
 		"entity": "balancer"
 	},
-	"0x578c60e6Df60336bE41b316FDE74Aa3E2a4E0Ea5": {
-		"name": "sMON/wnWMON BPT (Kintsu)",
-		"description": "Collateral vault for Balancer sMON/WMON pool BPT.",
-		"entity": "balancer"
-	},
-	"0x6660195421557BC6803e875466F99A764ae49Ed7": {
-		"name": "shMON/wnWMON BPT (Fastlane)",
-		"description": "Collateral vault for Balancer shMON/WMON pool BPT.",
-		"entity": "balancer"
-	},
-	"0x175831aF06c30F2EA5EA1e3F5EBA207735Eb9F92": {
-		"name": "wnLOAZND/AZND/wnAUSD BPT",
-		"description": "Collateral vault for Balancer AZND stablecoin pool BPT.",
-		"entity": "balancer"
-	},
 	"0x7ad9f09B431A4C5F4CbA809d449Fde842192f9ec": {
 		"name": "wnSMON/wnWMON BPT (Kintsu)",
 		"description": "Collateral vault for Balancer Kintsu sMON/WMON pool BPT.",
