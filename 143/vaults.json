@@ -31,7 +31,7 @@
 	},
 	"0x2067936155c7DB57b1cdCF776B04B9678c245626": {
 		"name": "wnLOAZND/AZND/wnAUSD BPT",
-		"description": "Collateral vault for Balancer AZND stablecoin pool BPT.",
+		"description": "Deprecated collateral vault for Balancer AZND stablecoin pool BPT. Existing borrowers can repay, unwind, and withdraw.",
 		"entity": "balancer"
 	}
 }
